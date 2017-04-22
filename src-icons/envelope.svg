@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="20px" height="32px" viewBox="0 0 20 32" style="enable-background:new 0 0 20 32;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#666666;}
-</style>
-<path class="st0" d="M0,10v12h20V10H0z M16.751,12l-6.813,5.083L3.216,12H16.751z M2,20v-7.666l7.934,6L18,12.316V20H2z"/>
-</svg>
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><title>envelope</title><path d="M0 3v10h16V3H0zm13.4 1.67L7.95 8.9 2.58 4.67H13.4zM1.6 11.33V4.94l6.34 5 6.46-5v6.4H1.6z"/></svg>

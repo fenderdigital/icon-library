@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="9.984px" height="32px" viewBox="0 0 9.984 32" style="enable-background:new 0 0 9.984 32;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#010101;}
-</style>
-<path class="st0" d="M0,4l0.002,23.958l9.983,0.001L9.983,4L0,4z M8.486,8.493l0,0.998l-1.498,0l0,0.998l1.498,0l0,0.998l-3.494,0
-	l0,0.998l3.493,0.001l0,0.998l-1.498,0l0,0.998l1.498,0l0,0.998l-3.494,0l0,0.998l3.494,0l0,0.998l-1.498,0l0,0.998l1.498,0l0,0.998
-	l-3.494,0l0,0.998l3.494,0l0,0.998l-1.498,0l0.001,0.999l1.498,0l0,0.998l-3.495,0.001l0,0.998l3.494,0l0,0.998l-1.497,0.001
-	l0,0.998l-5.49,0L1.498,5.498l5.49,0l0,0.998l1.498,0l0,0.998l-3.494,0l0,0.998L8.486,8.493z"/>
-</svg>
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><title>ruler</title><path d="M5 0v15.97h7V0H5zm5.94 3v.67H9.9v.66h1.05v.66H8.5v.67h2.45v.67H9.9v.66h1.05v.66H8.5v.67h2.45v.67H9.9v.66h1.05v.67H8.5v.66h2.45v.67H9.9v.66h1.05v.67H8.5v.67h2.45v.66H9.9v.67H6.04V1H9.9v.67h1.05v.66H8.5V3h2.45z"/></svg>
