@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'fender-icons';
   src:
-    url('fonts/fender-icons.ttf?r8k4db') format('truetype'),
-    url('fonts/fender-icons.woff?r8k4db') format('woff'),
-    url('fonts/fender-icons.svg?r8k4db#fender-icons') format('svg');
+    url('fonts/fender-icons.ttf?if984r') format('truetype'),
+    url('fonts/fender-icons.woff?if984r') format('woff'),
+    url('fonts/fender-icons.svg?if984r#fender-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -151,6 +151,9 @@
 }
 .icon-logo-tone-horizontal:before {
   content: "\e92a";
+}
+.icon-logo-play-horizontal:before {
+  content: "\e967";
 }
 .icon-menu:before {
   content: "\e92b";

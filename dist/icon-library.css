@@ -1,4 +1,4 @@
-@font-face { font-family: 'fender-icons'; src: url( 'fonts/fender-icons.ttf?r8k4db' ) format( 'truetype' ), url( 'fonts/fender-icons.woff?r8k4db' ) format( 'woff' ), url( 'fonts/fender-icons.svg?r8k4db#fender-icons' ) format( 'svg' ); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'fender-icons'; src: url( 'fonts/fender-icons.ttf?if984r' ) format( 'truetype' ), url( 'fonts/fender-icons.woff?if984r' ) format( 'woff' ), url( 'fonts/fender-icons.svg?if984r#fender-icons' ) format( 'svg' ); font-weight: normal; font-style: normal; }
 [class^="icon-"], [class*=" icon-"] {/* use !important to prevent issues with browser extensions that change fonts */ font-family: 'fender-icons' !important; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; line-height: 1; /* Better Font Rendering =========== */ -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 .icon-alert:before { content: "\e900"; }
 .icon-amp:before { content: "\e901"; }
@@ -43,6 +43,7 @@
 .icon-logo:before { content: "\e928"; }
 .icon-logo-riffstation-horizontal:before { content: "\e929"; }
 .icon-logo-tone-horizontal:before { content: "\e92a"; }
+.icon-logo-play-horizontal:before { content: "\e967"; }
 .icon-menu:before { content: "\e92b"; }
 .icon-mesh-circle:before { content: "\e92c"; }
 .icon-minus-circle:before { content: "\e92d"; }
