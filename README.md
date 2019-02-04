@@ -2,6 +2,10 @@
 
 ## [Documentation](https://fenderdigital.github.io/css-utilities/icons/)
 
+Don't forget to add the icons you've added to the documentation. It's as simple as adding the name of the icon here:
+
+https://github.com/fenderdigital/css-utilities/blob/master/docs/_data/icons.yml
+
 
 ### [Development](https://fenderdigital.github.io/css-utilities/development/)
 
@@ -15,7 +19,7 @@ To add an Icon:
 * Check if new imported icons are set to the 16x16 grid.
 * Click on Generate Font, to download a Zip with generated assets.
 * Replace the `fonts` folder and `style.css` files in `/src` with what you got from Icomoon.
-* Replace `selection.json` 
+* Replace `selection.json`
 
 Run:
 
