@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'fender-icons';
   src:
-    url('fonts/fender-icons.ttf?xj2q4d') format('truetype'),
-    url('fonts/fender-icons.woff?xj2q4d') format('woff'),
-    url('fonts/fender-icons.svg?xj2q4d#fender-icons') format('svg');
+    url('fonts/fender-icons.ttf?p15lyy') format('truetype'),
+    url('fonts/fender-icons.woff?p15lyy') format('woff'),
+    url('fonts/fender-icons.svg?p15lyy#fender-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -23,8 +23,62 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-alarm:before {
+.icon-toolkit:before {
+  content: "\e96c";
+}
+.icon-app-switcher:before {
   content: "\e96a";
+}
+.icon-support:before {
+  content: "\e96b";
+}
+.icon-settings:before {
+  content: "\e96d";
+}
+.icon-my-favorites:before {
+  content: "\e96e";
+}
+.icon-my-progress:before {
+  content: "\e96f";
+}
+.icon-articles:before {
+  content: "\e970";
+}
+.icon-play-lists:before {
+  content: "\e971";
+}
+.icon-profile:before {
+  content: "\e972";
+}
+.icon-songs:before {
+  content: "\e973";
+}
+.icon-skills:before {
+  content: "\e974";
+}
+.icon-browse:before {
+  content: "\e975";
+}
+.icon-chord-diagram:before {
+  content: "\e976";
+}
+.icon-info-circle:before {
+  content: "\e977";
+}
+.icon-tablature:before {
+  content: "\e978";
+}
+.icon-tuning-fork:before {
+  content: "\e979";
+}
+.icon-home:before {
+  content: "\e97a";
+}
+.icon-book:before {
+  content: "\e97b";
+}
+.icon-alarm:before {
+  content: "\e97c";
   color: #999;
 }
 .icon-lock:before {
