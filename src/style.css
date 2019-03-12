@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'fender-icons';
   src:
-    url('fonts/fender-icons.ttf?p15lyy') format('truetype'),
-    url('fonts/fender-icons.woff?p15lyy') format('woff'),
-    url('fonts/fender-icons.svg?p15lyy#fender-icons') format('svg');
+    url('fonts/fender-icons.ttf?qeuaqx') format('truetype'),
+    url('fonts/fender-icons.woff?qeuaqx') format('woff'),
+    url('fonts/fender-icons.svg?qeuaqx#fender-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -23,6 +23,24 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-my-progress-filled:before {
+  content: "\e97d";
+}
+.icon-skills-filled:before {
+  content: "\e97e";
+}
+.icon-songs-filled:before {
+  content: "\e97f";
+}
+.icon-toolkit-filled:before {
+  content: "\e980";
+}
+.icon-home-filled:before {
+  content: "\e981";
+}
+.icon-sign-out:before {
+  content: "\e982";
+}
 .icon-toolkit:before {
   content: "\e96c";
 }
