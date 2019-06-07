@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'fender-icons';
   src:
-    url('fonts/fender-icons.ttf?2426xq') format('truetype'),
-    url('fonts/fender-icons.woff?2426xq') format('woff'),
-    url('fonts/fender-icons.svg?2426xq#fender-icons') format('svg');
+    url('fonts/fender-icons.ttf?kwiivq') format('truetype'),
+    url('fonts/fender-icons.woff?kwiivq') format('woff'),
+    url('fonts/fender-icons.svg?kwiivq#fender-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -49,6 +49,12 @@
 }
 .icon-arrow-indicator:before {
   content: "\e986";
+}
+.icon-pause:before {
+  content: "\e98f";
+}
+.icon-metronome:before {
+  content: "\e990";
 }
 .icon-elipsis-alt:before {
   content: "\e985";
