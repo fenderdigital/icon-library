@@ -1,6 +1,6 @@
 {
   "name": "icon-library",
-  "version": "1.9.0",
+  "version": "1.10.0",
   "description": "Fender Icon Library",
   "main": "dist/icon-library.css",
   "scripts": {
