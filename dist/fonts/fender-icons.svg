@@ -172,4 +172,5 @@
 <glyph unicode="&#xe98f;" glyph-name="pause" data-tags="pause" horiz-adv-x="448" d="M288 640h160v-640h-160v640zM0 640h160v-640h-160v640z" />
 <glyph unicode="&#xe990;" glyph-name="metronome" data-tags="metronome" horiz-adv-x="544" d="M369.152 268.576l78.848-236.576h-448l192 576h64l100.544-301.632 66.112 94.4c-18.528 21.664-20.864 53.888-3.776 78.304 20.288 28.96 60.192 36 89.12 15.712 28.96-20.288 36-60.192 15.712-89.12-17.12-24.416-48.192-33.248-74.88-23.232l-79.68-113.856zM346.016 235.552l-120.128-171.552h176.896l-56.768 171.552zM186.816 64l146.656 209.44-57.76 174.56h-103.424l-127.072-384h141.6zM265.12 480l-31.776 96h-18.688l-31.776-96h82.24z" />
 <glyph unicode="&#xe991;" glyph-name="chat" data-tags="chat" horiz-adv-x="704" d="M0 672h704v-704l-192 192h-512v512zM48 624v-416h483.872l124.128-124.128v540.128h-608z" />
+<glyph unicode="&#xe992;" glyph-name="arrow-active-lesson" data-tags="arrow-active-lesson" horiz-adv-x="384" d="M0 704l384-384-384-384z" />
 </font></defs></svg>
