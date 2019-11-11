@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>icons/24px/heart-filled</title>
+    <desc>Created with Sketch.</desc>
+    <g id="native---sso" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-74.000000, -60.000000)" fill="#D52B1E" fill-rule="nonzero">
+            <g id="icons/24px/heart-filled" transform="translate(72.000000, 57.000000)">
+                <g id="icons/trimmed/heart-filled" transform="translate(1.883539, 2.661160)">
+                    <path d="M1.48342646,1.56871806 C-0.495553187,3.66073319 -0.493397493,7.02007063 1.48342646,9.11390548 L9.79125073,17.9123677 C9.84383814,17.9682341 9.9177884,18 9.99525687,18 C10.0727253,18 10.1466756,17.9682341 10.199263,17.9123677 C12.972488,14.9806655 15.7425434,12.0542561 18.5157684,9.12244476 C20.494748,7.03042417 20.4947397,3.67788269 18.5157684,1.58576935 C16.5367999,-0.506349453 13.3068067,-0.506393104 11.3278076,1.58576935 L9.99959743,2.98397458 L8.66270616,1.56871806 C7.67320384,0.522672305 6.37917088,0 5.07740687,0 C3.77564286,0 2.4729149,0.522672305 1.48342646,1.56871806 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
