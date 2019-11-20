@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="17px" viewBox="0 0 12 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>icons/24px/document-bullets</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop-Wireframes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-350.000000, -217.000000)" fill="#666666" fill-rule="nonzero">
+            <g id="icons/24px/document-bullets" transform="translate(344.000000, 214.000000)">
+                <g id="icons/trimmed/document-bullets" transform="translate(6.000000, 3.538933)">
+                    <path d="M0,4.97379915e-14 L0,1 L0,15 L0,16 L1,16 L11,16 L12,16 L12,3.668 L11.725,3.38 L8.808,0.311 L8.513,4.97379915e-14 L0,4.97379915e-14 Z M1,1 L7.187,1 L7.187,4.844 L11,4.844 L11,15 L1,15 L1,1 Z M9,10.0002 L9,11.0012 L5,11.0012 L5,10.0002 L9,10.0002 Z M4,10.0002 L4,11.0012 L3,11.0012 L3,10.0002 L4,10.0002 Z M9,8.0002 L9,9.0012 L5,9.0012 L5,8.0002 L9,8.0002 Z M4,8.0002 L4,9.0012 L3,9.0012 L3,8.0002 L4,8.0002 Z M9,6.0002 L9,7.0012 L5,7.0012 L5,6.0002 L9,6.0002 Z M4,6.0002 L4,7.0012 L3,7.0012 L3,6.0002 L4,6.0002 Z M8.187,1.109 L10.786,3.844 L8.187,3.844 L8.187,1.109 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
