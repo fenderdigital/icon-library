@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
-    <title>icons/24px/playlists-filled</title>
+    <title>icons/44px/playlists filled</title>
     <desc>Created with Sketch.</desc>
-    <g id="icons/24px/playlists-filled" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="icons/trimmed/playlists-filled" fill="#666666" fill-rule="nonzero">
+    <g id="icons/44px/playlists-filled" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/trimmed/playlists-filled" transform="translate(10.000000, 10.000000)" fill="#666666" fill-rule="nonzero">
             <path d="M23.4,4.8 C23.7313708,4.8 24,5.06862915 24,5.4 L24,23.4 C24,23.7313708 23.7313708,24 23.4,24 L5.4,24 C5.06862915,24 4.8,23.7313708 4.8,23.4 C4.8,23.0686292 5.06862915,22.8 5.4,22.8 L22.8,22.8 L22.8,5.4 C22.8,5.06862915 23.0686292,4.8 23.4,4.8 Z M21,2.4 C21.3313708,2.4 21.6,2.66862915 21.6,3 L21.6,21 C21.6,21.3313708 21.3313708,21.6 21,21.6 L3,21.6 C2.66862915,21.6 2.4,21.3313708 2.4,21 C2.4,20.6686292 2.66862915,20.4 3,20.4 L20.4,20.4 L20.4,3 C20.4,2.66862915 20.6686292,2.4 21,2.4 Z M18,0 C18.6627417,0 19.2,0.5372583 19.2,1.2 L19.2,18 C19.2,18.6627417 18.6627417,19.2 18,19.2 L1.2,19.2 C0.5372583,19.2 0,18.6627417 0,18 L0,1.2 C0,0.5372583 0.5372583,0 1.2,0 L18,0 Z" id="Combined-Shape"></path>
         </g>
     </g>

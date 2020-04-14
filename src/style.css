@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'fender-icons';
   src:
-    url('fonts/fender-icons.ttf?mgvtwp') format('truetype'),
-    url('fonts/fender-icons.woff?mgvtwp') format('woff'),
-    url('fonts/fender-icons.svg?mgvtwp#fender-icons') format('svg');
+    url('fonts/fender-icons.ttf?wsiax1') format('truetype'),
+    url('fonts/fender-icons.woff?wsiax1') format('woff'),
+    url('fonts/fender-icons.svg?wsiax1#fender-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -26,11 +26,9 @@
 
 .icon-playlists-filled:before {
   content: "\e99e";
-  color: #666;
 }
 .icon-playlists:before {
   content: "\e99f";
-  color: #666;
 }
 .icon-document-course-detail:before {
   content: "\e99b";
