@@ -1,4 +1,4 @@
-# Fender Icon Library
+# Fender Icon Library (Deprecated)
 
 ## [Documentation](https://fenderdigital.github.io/css-utilities/icons/)
 
